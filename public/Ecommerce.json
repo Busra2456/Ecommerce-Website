@@ -1,0 +1,226 @@
+
+[
+  {
+    "_id": "201",
+    "title": "Wireless Earbuds",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 49.99,
+    "description": "Noise-cancelling earbuds with charging case.",
+    "facility": {
+      "name": "Bluetooth 5.3",
+      "details": "Fast connection, 30ft range, 20hr battery life"
+    }
+  },
+  {
+    "_id": "202",
+    "title": "Smart Fitness Watch",
+    "img": "https://i.ibb.co/qMBFXHF3/pexels-obi-onyeador-1787470-13566767.jpg",
+    "price": 89.99,
+    "description": "Track your steps, sleep, and heart rate.",
+    "facility": {
+      "name": "Water Resistant",
+      "details": "IP68 rating, swim-proof, 7-day battery"
+    }
+  },
+  {
+    "_id": "203",
+    "title": "Leather Office Chair",
+    "img": "https://i.ibb.co/G4ZmH68D/pexels-heyho-7534168.jpg",
+    "price": 149.99,
+    "description": "Ergonomic chair with lumbar support.",
+    "facility": {
+      "name": "Height Adjustable",
+      "details": "Smooth wheels, tilt function, PU leather"
+    }
+  },
+  {
+    "_id": "204",
+    "title": "Gaming Mouse RGB",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 34.95,
+    "description": "High-precision optical gaming mouse.",
+    "facility": {
+      "name": "Custom DPI Settings",
+      "details": "4000 DPI, 6 buttons, RGB lighting"
+    }
+  },
+  {
+    "_id": "205",
+    "title": "Air Fryer 5L",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 89.50,
+    "description": "Healthier frying with less oil.",
+    "facility": {
+      "name": "Digital Touchscreen",
+      "details": "8 presets, auto shut-off, dishwasher-safe parts"
+    }
+  },
+  {
+    "_id": "206",
+    "title": "Laptop Cooling Pad",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 27.99,
+    "description": "Keep your laptop cool and quiet.",
+    "facility": {
+      "name": "5 Silent Fans",
+      "details": "USB powered, adjustable height"
+    }
+  },
+  {
+    "_id": "207",
+    "title": "Portable Bluetooth Speaker",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 59.00,
+    "description": "Loud and clear sound on the go.",
+    "facility": {
+      "name": "Waterproof IPX7",
+      "details": "12h playtime, bass boost, hands-free call"
+    }
+  },
+  {
+    "_id": "208",
+    "title": "Adjustable Standing Desk",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 229.99,
+    "description": "Sit or stand while you work.",
+    "facility": {
+      "name": "Electric Lift",
+      "details": "Memory settings, sturdy frame, 48\" surface"
+    }
+  },
+  {
+    "_id": "209",
+    "title": "Cordless Hair Clipper",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 39.99,
+    "description": "Professional haircutting tool.",
+    "facility": {
+      "name": "Rechargeable Battery",
+      "details": "2h use, 4 guards, low noise motor"
+    }
+  },
+  {
+    "_id": "210",
+    "title": "Mini Projector",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 109.99,
+    "description": "Big screen experience in your home.",
+    "facility": {
+      "name": "Full HD Support",
+      "details": "HDMI/USB input, remote control, 200\" display"
+    }
+  },
+  {
+    "_id": "211",
+    "title": "Smart Plug (Pack of 2)",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 25.00,
+    "description": "Control your devices from anywhere.",
+    "facility": {
+      "name": "Voice Control",
+      "details": "Works with Alexa & Google Assistant"
+    }
+  },
+  {
+    "_id": "212",
+    "title": "Electric Toothbrush",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 35.99,
+    "description": "Deep clean for healthier gums.",
+    "facility": {
+      "name": "5 Brushing Modes",
+      "details": "2-min timer, USB charging, 4 brush heads"
+    }
+  },
+  {
+    "_id": "213",
+    "title": "HD Webcam 1080p",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 49.00,
+    "description": "Clear video for meetings and streaming.",
+    "facility": {
+      "name": "Built-in Microphone",
+      "details": "Auto light correction, USB plug & play"
+    }
+  },
+  {
+    "_id": "214",
+    "title": "Electric Blanket",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 64.95,
+    "description": "Stay warm during cold nights.",
+    "facility": {
+      "name": "3 Heat Levels",
+      "details": "Auto-off feature, washable cover"
+    }
+  },
+  {
+    "_id": "215",
+    "title": "Kitchen Knife Set",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 79.00,
+    "description": "Sharp blades with ergonomic handles.",
+    "facility": {
+      "name": "Rust-Resistant",
+      "details": "6-piece set, wooden block included"
+    }
+  },
+  {
+    "_id": "216",
+    "title": "Camping Tent for 4",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 129.95,
+    "description": "Waterproof and windproof tent.",
+    "facility": {
+      "name": "Quick Setup",
+      "details": "Includes stakes, carry bag, 2 windows"
+    }
+  },
+  {
+    "_id": "217",
+    "title": "Rechargeable Book Light",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 14.99,
+    "description": "Clip-on light for night reading.",
+    "facility": {
+      "name": "3 Brightness Levels",
+      "details": "Flexible arm, USB rechargeable"
+    }
+  },
+  {
+    "_id": "218",
+    "title": "Electric Pressure Cooker",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 99.50,
+    "description": "Fast and easy meals every day.",
+    "facility": {
+      "name": "10-in-1 Function",
+      "details": "6L capacity, digital display, safety lock"
+    }
+  },
+  {
+    "_id": "219",
+    "title": "Indoor Plant Stand",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 59.90,
+    "description": "Display your plants in style.",
+    "facility": {
+      "name": "5 Tier",
+      "details": "Bamboo wood, space-saving vertical design"
+    }
+  },
+  {
+    "_id": "220",
+    "title": "UV Phone Sanitizer",
+    "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
+    "price": 32.99,
+    "description": "Sanitize your phone in minutes.",
+    "facility": {
+      "name": "Wireless Charging",
+      "details": "Kills 99.9% germs, fits all phones"
+    }
+  }
+]
+
+
+
