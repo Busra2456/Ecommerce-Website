@@ -16,7 +16,7 @@ const Login = () => {
             event.preventDefault()
             const form = event.target;
             const email = form.email.value;
-            const password =form.password.value;
+            const password = form.password.value;
             console.log(email,password)
 
             signIn(email, password)
@@ -27,14 +27,14 @@ const Login = () => {
               navigate(location?.state ? location?.state : '/')
               // ------------------------- get access token --------------------------------
               axios.post('Ecommerce.json'
-            //       ,{
-            //   withCredentials:true}
+              //     ,{
+              // withCredentials:true}
             )
               .then(res =>{
                 console.log(res.data)
-            //     if(res.data.success){
-            //        navigate(location?.state ? location?.state : '/')
-            //     }
+                // if(res.data.success){
+                //    navigate(location?.state ? location?.state : '/')
+                // }
               })
               
 

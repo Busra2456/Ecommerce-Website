@@ -7,7 +7,7 @@ const Services = () => {
       const [dataLength,setDataLength] = useState(6)
       const [services, setServices] = useState([]);
       useEffect(() =>{
-            fetch('Ecommerce.json')
+            fetch('http://localhost:5000/bus')
             .then(res => res.json())
             .then(data =>setServices(data))
       },[])

@@ -1,7 +1,6 @@
 
 [
   {
-    "_id": "201",
     "title": "Wireless Earbuds",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 49.99,
@@ -12,7 +11,6 @@
     }
   },
   {
-    "_id": "202",
     "title": "Smart Fitness Watch",
     "img": "https://i.ibb.co/qMBFXHF3/pexels-obi-onyeador-1787470-13566767.jpg",
     "price": 89.99,
@@ -23,7 +21,6 @@
     }
   },
   {
-    "_id": "203",
     "title": "Leather Office Chair",
     "img": "https://i.ibb.co/G4ZmH68D/pexels-heyho-7534168.jpg",
     "price": 149.99,
@@ -34,7 +31,6 @@
     }
   },
   {
-    "_id": "204",
     "title": "Gaming Mouse RGB",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 34.95,
@@ -45,7 +41,6 @@
     }
   },
   {
-    "_id": "205",
     "title": "Air Fryer 5L",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 89.50,
@@ -56,7 +51,6 @@
     }
   },
   {
-    "_id": "206",
     "title": "Laptop Cooling Pad",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 27.99,
@@ -67,7 +61,6 @@
     }
   },
   {
-    "_id": "207",
     "title": "Portable Bluetooth Speaker",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 59.00,
@@ -78,7 +71,6 @@
     }
   },
   {
-    "_id": "208",
     "title": "Adjustable Standing Desk",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 229.99,
@@ -89,7 +81,6 @@
     }
   },
   {
-    "_id": "209",
     "title": "Cordless Hair Clipper",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 39.99,
@@ -100,7 +91,6 @@
     }
   },
   {
-    "_id": "210",
     "title": "Mini Projector",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 109.99,
@@ -111,7 +101,6 @@
     }
   },
   {
-    "_id": "211",
     "title": "Smart Plug (Pack of 2)",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 25.00,
@@ -122,7 +111,6 @@
     }
   },
   {
-    "_id": "212",
     "title": "Electric Toothbrush",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 35.99,
@@ -133,7 +121,6 @@
     }
   },
   {
-    "_id": "213",
     "title": "HD Webcam 1080p",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 49.00,
@@ -144,7 +131,6 @@
     }
   },
   {
-    "_id": "214",
     "title": "Electric Blanket",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 64.95,
@@ -155,7 +141,6 @@
     }
   },
   {
-    "_id": "215",
     "title": "Kitchen Knife Set",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 79.00,
@@ -166,7 +151,6 @@
     }
   },
   {
-    "_id": "216",
     "title": "Camping Tent for 4",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 129.95,
@@ -177,7 +161,6 @@
     }
   },
   {
-    "_id": "217",
     "title": "Rechargeable Book Light",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 14.99,
@@ -188,7 +171,6 @@
     }
   },
   {
-    "_id": "218",
     "title": "Electric Pressure Cooker",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 99.50,
@@ -199,7 +181,6 @@
     }
   },
   {
-    "_id": "219",
     "title": "Indoor Plant Stand",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 59.90,
@@ -210,7 +191,6 @@
     }
   },
   {
-    "_id": "220",
     "title": "UV Phone Sanitizer",
     "img": "https://i.ibb.co/tTNNnHR9/pexels-soulful-pizza-2080276-3780681.jpg",
     "price": 32.99,

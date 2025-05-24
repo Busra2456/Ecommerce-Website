@@ -4,6 +4,11 @@ import Home from "../pages/Home/Home";
 import About from "../pages/Homes/About/About";
 import Login from "../pages/Homes/Login/Login";
 import SignUp from "../pages/Homes/SignUp/SignUp";
+import Booking from "../pages/Homes/Services/Booking";
+import Bookings from "../pages/Homes/Services/Bookings";
+import PrivateRoute from "./PrivateRoute";
+
+
 
 const router = createBrowserRouter([
       {
@@ -22,10 +27,28 @@ const router = createBrowserRouter([
               path:'/Login',
               element:<Login></Login>
             },
+           
             {
               path:'/SignUp',
               element:<SignUp></SignUp>
+            },
+            {
+              path:'book/:id',
+              element:<PrivateRoute><Booking></Booking></PrivateRoute>,
+              loader:({params}) => fetch(`http://localhost:5000/bus/${params.id}`)
+      
+            },
+
+            {
+              path:'/Bookings',
+              element:<PrivateRoute> <Bookings></Bookings></PrivateRoute>
+             
             }
+            
+           
+           
+             
+           
         ]
       },
     ]);
